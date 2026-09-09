@@ -351,7 +351,7 @@
     "ol-ext": "4.0.10",
     "papaparse": "5.4.1",
     "pluralize": "^8.0.0",
-    "prismjs": "1.29.0",
+    "prismjs": "1.30.0",
     "prop-types": "15.8.1",
     "pseudoizer": "^0.1.0",
     "rc-cascader": "3.12.1",
