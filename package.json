@@ -339,7 +339,7 @@
     "marked": "5.1.1",
     "marked-mangle": "1.1.0",
     "memoize-one": "6.0.0",
-    "moment": "2.29.4",
+    "moment": "2.31.0",
     "moment-timezone": "0.5.43",
     "monaco-editor": "0.34.0",
     "monaco-promql": "1.7.4",
